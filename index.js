@@ -1,5 +1,5 @@
 `function happyHolidays () {
-   return 'Happy Holiday!' 
+   return 'Happy Holiday!'
  }`
 
 `function happyHolidays () {
