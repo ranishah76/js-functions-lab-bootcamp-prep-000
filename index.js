@@ -1,13 +1,17 @@
-function happyHolidays () {
-    return `Happy holidays!`
-}
+`function happyHolidays () {
+   return 'Happy Holiday!' 
+ }`
+
+`function happyHolidays () {
+  return 'Happy Holiday!'
+}`
 
 function happyHolidaysTo (name) {
   return `Happy holidays, ${name}`
 }
 
 function happyHolidaysTo (name, holiday) {
-  return `Happy $(holiday), $(name)`
+  return `Happy ${holiday}, $(name)`
 }
 
 function holidayCountdown (name, holiday) {
